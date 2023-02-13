@@ -1,4 +1,4 @@
 # ARVR Notes
-Waveguide
-Basics Of Optics
-AR Glass Components
+- Waveguide
+- Basics Of Optics
+- AR Glass Components
