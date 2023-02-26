@@ -1,3 +1,6 @@
 # Luminance uniformity describes brightness being completely uniform in all 
    parts of a display, ensuring there are no dark spots or illegibility of 
   information on the screen.
+  
+# LCOS
+# OLED
