@@ -1,3 +1,5 @@
+# https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-optical-magic-flat-glass-enables.amp
+
 # Luminance uniformity describes brightness being completely uniform in all 
    parts of a display, ensuring there are no dark spots or illegibility of 
   information on the screen.
